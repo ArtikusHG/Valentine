@@ -1,0 +1,9 @@
+Package: com.artikus.valentine
+Name: Valentine
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: iOS 14 Calendar app icon for iOS 10 - 13.
+Maintainer: ArtikusHG
+Author: ArtikusHG
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
