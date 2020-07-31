@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>entry</key>
+  <dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>label</key>
+    <string>Fix offset (Valentine)</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>com.artikus.valentine</string>
+    <key>key</key>
+    <string>kFixOffset</string>
+    <key>pl_filter</key>
+    <dict>
+      <key>CoreFoundationVersion</key>
+      <array>
+        <real>0.0</real>
+        <real>1348.00</real>
+      </array>
+    </dict>
+  </dict>
+  <key>title</key>
+  <string>Fix offset (Valentine)</string>
+</dict>
+</plist>
